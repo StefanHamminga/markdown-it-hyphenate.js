@@ -1,0 +1,26 @@
+{
+  "name": "markdown-it-hyphenate",
+  "version": "1.0.0",
+  "description": "Paragraph hyphenation character insertion plugin for markdown-it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanHamminga/markdown-it-hyphenate.js.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin",
+    "hyphen",
+    "hyphenate"
+  ],
+  "author": "Stefan Hamminga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StefanHamminga/markdown-it-hyphenate.js/issues"
+  },
+  "homepage": "https://github.com/StefanHamminga/markdown-it-hyphenate.js#readme"
+}
